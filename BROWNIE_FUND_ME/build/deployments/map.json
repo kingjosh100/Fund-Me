@@ -1,0 +1,18 @@
+{
+  "3": {
+    "FundMe": [
+      "0x6c3d88D200878dd4c74464C53062bf58607aF3d1",
+      "0xb5715EBE20e94Bf17E9E18d2c0398E7466546665",
+      "0x702F70Eff75815f90f7Bd6D7048eD94C91b24d43"
+    ]
+  },
+  "5777": {
+    "FundMe": [
+      "0x93a0A7cd94057F6197a36e276aE369aFa771Fd0F",
+      "0xf5D96F1335626d07f9eE0B38dC382dE00d7797A1"
+    ],
+    "MockV3Aggregator": [
+      "0x8493e5B0e57FD7bA52C3C06Af71d4e13959E0cd7"
+    ]
+  }
+}
